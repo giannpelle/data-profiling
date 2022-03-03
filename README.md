@@ -24,13 +24,13 @@ I was then curious how [Metanome](https://hpi.de/naumann/projects/data-profiling
 
 From the paper cited above, the pseudocode for the pruning is shown in the image below:
 
-[Pseudocode from TANE paper](https://github.com/giannpelle/data-profiling/blob/master/images/paper_code.png)
+<img src="https://github.com/giannpelle/data-profiling/blob/master/images/paper_code.png" width="500">
 
 From the implementation of TANE in Metanome, the code is the following:
 
-[Pseudocode from Metanome implementation](https://github.com/giannpelle/data-profiling/blob/master/images/metanome_code.png)
+<img src="https://github.com/giannpelle/data-profiling/blob/master/images/metanome_code.png" width="700">
 
-[Pseudocode from Metanome implementation](https://github.com/giannpelle/data-profiling/blob/master/images/metanome_code_2.png)
+<img src="https://github.com/giannpelle/data-profiling/blob/master/images/metanome_code_2.png" width="700">
 
 In the end, I decided to stick with my own solution for 3 reasons:
 * because the proposed solution differs in a significant way from the vanilla pseudocode available in the Paper
